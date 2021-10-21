@@ -311,6 +311,14 @@
       <Project>{1F0F28B6-D7DE-45F5-8276-42C1CDECA2B4}</Project>
       <Name>Player_1.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Player_1.Model\Player_1.Model.csproj">
+      <Project>{69f9f114-431c-4051-b052-3c53abbe20cd}</Project>
+      <Name>Player_1.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Player_1.Service\Player_1.Service.csproj">
+      <Project>{7d2d1a8f-9e9d-4ebe-b218-6b96f4309ff8}</Project>
+      <Name>Player_1.Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Player_1.Data
 {
-    public class Class1
+    public class Game
     {
     }
 }
