@@ -55,11 +55,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="GameService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Player_1.Data\Player_1.Data.csproj">
+      <Project>{1F0F28B6-D7DE-45F5-8276-42C1CDECA2B4}</Project>
+      <Name>Player_1.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Player_1.Model\Player_1.Model.csproj">
+      <Project>{69F9F114-431C-4051-B052-3C53ABBE20CD}</Project>
+      <Name>Player_1.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
