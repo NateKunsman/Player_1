@@ -24,6 +24,5 @@ namespace Player_1.Data
         public int GameSystemId { get; set; }
 
         public Guid UserId { get; set; }
-
     }
 }
