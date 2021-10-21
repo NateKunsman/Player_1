@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using Player_1.Providers;
 using Player_1.Models;
+using Player_1.Data;
 
 namespace Player_1
 {
