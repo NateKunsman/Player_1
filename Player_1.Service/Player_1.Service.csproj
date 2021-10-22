@@ -54,13 +54,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="GameSystemService.cs" />
-=======
     <Compile Include="Class1.cs" />
     <Compile Include="GenreService.cs" />
     <Compile Include="GameService.cs" />
->>>>>>> be8a84153d7c83e8fcedc5a664f9031ef9c83508
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -69,19 +66,16 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Player_1.Data\Player_1.Data.csproj">
-<<<<<<< HEAD
       <Project>{1f0f28b6-d7de-45f5-8276-42c1cdeca2b4}</Project>
       <Name>Player_1.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\Player_1.Model\Player_1.Model.csproj">
       <Project>{69f9f114-431c-4051-b052-3c53abbe20cd}</Project>
-=======
-      <Project>{1F0F28B6-D7DE-45F5-8276-42C1CDECA2B4}</Project>
+      <!--<Project>{1F0F28B6-D7DE-45F5-8276-42C1CDECA2B4}</Project>
       <Name>Player_1.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\Player_1.Model\Player_1.Model.csproj">
-      <Project>{69F9F114-431C-4051-B052-3C53ABBE20CD}</Project>
->>>>>>> be8a84153d7c83e8fcedc5a664f9031ef9c83508
+      <Project>{69F9F114-431C-4051-B052-3C53ABBE20CD}</Project>-->
       <Name>Player_1.Model</Name>
     </ProjectReference>
   </ItemGroup>

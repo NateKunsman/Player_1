@@ -54,15 +54,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="GameSystemCreate.cs" />
-=======
     <Compile Include="Class1.cs" />
     <Compile Include="GenreCreate.cs" />
     <Compile Include="GenreListItem.cs" />
     <Compile Include="GameCreate.cs" />
     <Compile Include="GameDetail.cs" />
->>>>>>> be8a84153d7c83e8fcedc5a664f9031ef9c83508
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
