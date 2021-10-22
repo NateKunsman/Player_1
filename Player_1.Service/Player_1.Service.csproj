@@ -55,11 +55,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-<<<<<<< HEAD
     <Compile Include="GenreService.cs" />
-=======
     <Compile Include="GameService.cs" />
->>>>>>> a6e56dccd3454eef7eba5be26aa79b82e8c505f7
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

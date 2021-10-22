@@ -21,7 +21,6 @@ namespace Player_1.Service
         {
             var entity = new Game()
             {
-                UserId = _userId,
                 GameName = model.GameName,
                 GenreId = model.GenreId,
                 GameSystemId = model.GameSystemId
@@ -40,7 +39,7 @@ namespace Player_1.Service
             {
                 var query = ctx
                     .Games
-                    .Where(e => e.UserId == _userId)
+                    //.Where(e => e.UserId == _userId)
                     .Select(e => new GameDetail { GameId = e.GameId, GameName = e.GameName, GameSystemName = e.GameSystem, GenreName = e.Genre });
                 return query.ToArray();
             }

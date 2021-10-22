@@ -14,3 +14,6 @@ C:\Users\nkkun\source\repos\Player_1\Player_1.Model\obj\Debug\Player_1.Model.csp
 C:\Users\nkkun\source\repos\Player_1\Player_1.Model\obj\Debug\Player_1.Model.csproj.CopyComplete
 C:\Users\nkkun\source\repos\Player_1\Player_1.Model\obj\Debug\Player_1.Model.dll
 C:\Users\nkkun\source\repos\Player_1\Player_1.Model\obj\Debug\Player_1.Model.pdb
+C:\Users\nkkun\source\repos\Player_1\Player_1.Model\bin\Debug\Player_1.Data.dll
+C:\Users\nkkun\source\repos\Player_1\Player_1.Model\bin\Debug\Player_1.Data.pdb
+C:\Users\nkkun\source\repos\Player_1\Player_1.Model\bin\Debug\Player_1.Data.dll.config
