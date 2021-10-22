@@ -55,6 +55,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="GenreCreate.cs" />
+    <Compile Include="GenreListItem.cs" />
     <Compile Include="GameCreate.cs" />
     <Compile Include="GameDetail.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
