@@ -206,6 +206,11 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+<<<<<<< HEAD
+    <Compile Include="Controllers\GenreController.cs" />
+=======
+    <Compile Include="Controllers\GamesController.cs" />
+>>>>>>> a6e56dccd3454eef7eba5be26aa79b82e8c505f7
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
