@@ -55,7 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GameSystemCreate.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="GenreCreate.cs" />
     <Compile Include="GenreListItem.cs" />
     <Compile Include="GameCreate.cs" />
